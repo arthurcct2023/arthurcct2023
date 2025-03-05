@@ -1,6 +1,6 @@
 ## Greeting and Welcome to my Profile! 👋🏽
 
-I am a Data Analyst and Scientist driven to results and optimization, graduated in Chemical Engineering, with a background of over 5 year working as manager and director of business. I use of critical thinking for searching for gaps of performance and oportunities for improvements and rely on strong quantitative and qualitative methods to reach reliable solution for business. I am currently pursuing a career in which I can use my skills for improve energy efficiency. I am currently learning Data Mining and Scraping, Data Visualization and Energy Markets.
+I am a Data Analyst and Scientist driven to results and optimisation, graduated in Chemical Engineering, with a background of over 5 years working as manager of business and coordinating project. I use critical thinking for searching for gaps of performance and oportunities for improvements and rely on strong quantitative and qualitative methods to reach reliable solution for business. I am currently pursuing a career in which I can use my skills for improve energy efficiency. I am currently learning Data Mining and Scraping, Data Visualization and Energy Markets.
 
 ## Education 🎓
 
