@@ -1,6 +1,6 @@
 ## Greeting and Welcome to my Profile! 👋🏽
 
-I am a Data Analyst and Scientist driven to results and optimisation, graduated in Chemical Engineering, with a background of over 5 years working as manager of business and coordinating project. I use critical thinking for searching for gaps of performance and oportunities for improvements and rely on strong quantitative and qualitative methods to reach reliable solution for business. I am currently pursuing a career in which I can use my skills for improve energy efficiency. I am currently learning Data Mining and Scraping, Data Visualization and Energy Markets.
+I am a Data Analyst and Engineer, with a background of 5 years working as engineer and manager on water and wastewater, and telecommunications services. I am specialist Green Belt in Lean Six Sigma and I rely on strong quantitative and qualitative methods to enhance business performance. I have hand-on experience from my previous jobs reducing Customer Churn, increasing Revenue, increasing quality standards, project management and chemical analytics. I am currently pursuing a career to work with sustainable energy, energy efficiency, net carbon zero and sustainability. I am currently learning SCADA, Digital Twins and Energy Markets.
 
 ## Education 🎓
 
@@ -12,10 +12,8 @@ I am a Data Analyst and Scientist driven to results and optimisation, graduated 
 - **Google Project Management: Specialization.** Google. Mar. 2023.
 - **Specialist Green Belt in Lean Six Sigma.** Voitto. https://www.voitto.com.br. Aug. 2022.
 - **Electric Industry and Markets.** Duke University through Coursera. Mar. 2024.
-- **Biogas Basics.** CIBiogas. https://cibiogas.org. May. 2020.
-- **Solar Photovoltaic Energy.** UNIDO. https://www.unido.org. Jun. 2016.
 
 ## Skills 🧳
 
 - **Technical Skills:** Python programming | Excel | Access | Statistics | Dashboard | Data Cleaning and Wrangling (Pandas) | Data Visualization (Power BI, Python) | Machine Learning
-- **Soft Skills:** Team player and leader | Communication | Organzization | Constant Development | Critical Thinking
+- **Soft Skills:** Team player and leader | Communication | Organisation | Constant Development | Critical Thinking
