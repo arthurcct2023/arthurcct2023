@@ -1,4 +1,4 @@
-## Greeting and Welcome to my Profile! 👋🏽
+## Greetings and Welcome to my Profile! 👋🏽
 
 I am a Data Analyst and Engineer, with a background of 5 years working as engineer and manager on water and wastewater, and telecommunications services. I am specialist Green Belt in Lean Six Sigma and I rely on strong quantitative and qualitative methods to enhance business performance. I have hand-on experience from my previous jobs reducing Customer Churn, increasing Revenue, increasing quality standards, project management and chemical analytics. I am currently pursuing a career to work with sustainable energy, energy efficiency, net carbon zero and sustainability. I am currently learning SCADA, Digital Twins and Energy Markets.
 
